@@ -1,0 +1,32 @@
+{
+  "name": "NN - Import Finder Repository",
+  "id": "com.nekoneko.nn-import-finder.repo",
+  "url": "https://raw.githubusercontent.com/kureh4/NN-Import-Finder/main/index.json",
+  "author": "ねこねこ",
+  "packages": {
+    "com.nekoneko.nn-import-finder": {
+      "versions": {
+        "1.1.0": {
+          "name": "com.nekoneko.nn-import-finder",
+          "displayName": "NN - Import Finder",
+          "version": "1.1.0",
+          "unity": "2022.3",
+          "unityRelease": "22f1",
+          "description": "Unityで直前にImportしたフォルダを見つけやすくするEditor拡張です。",
+          "author": {
+            "name": "ねこねこ",
+            "url": "https://github.com/kureh4"
+          },
+          "vpmDependencies": {},
+          "url": "https://raw.githubusercontent.com/kureh4/NN-Import-Finder/main/releases/com.nekoneko.nn-import-finder-1.1.0.zip",
+          "legacyFolders": {
+            "Assets\\nekoneko\\NN - Import Finder": "",
+            "Assets\\nekoneko\\NN_ImportFinder": "",
+            "Assets\\NN_ImportFinder": ""
+          },
+          "zipSHA256": "1e41677755348bdf16aa25c9561f17fa0bf5d8fea96d79bda9ec5f5aa91f5fa6"
+        }
+      }
+    }
+  }
+}
