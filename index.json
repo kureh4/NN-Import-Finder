@@ -15,7 +15,8 @@
           "description": "Unityで直前にImportしたフォルダを見つけやすくするEditor拡張です。",
           "author": {
             "name": "ねこねこ",
-            "url": "https://github.com/kureh4"
+            "url": "https://github.com/kureh4",
+            "email": "65277297+kureh4@users.noreply.github.com"
           },
           "vpmDependencies": {},
           "url": "https://raw.githubusercontent.com/kureh4/NN-Import-Finder/main/releases/com.nekoneko.nn-import-finder-1.1.0.zip",
@@ -24,7 +25,7 @@
             "Assets\\nekoneko\\NN_ImportFinder": "",
             "Assets\\NN_ImportFinder": ""
           },
-          "zipSHA256": "1e41677755348bdf16aa25c9561f17fa0bf5d8fea96d79bda9ec5f5aa91f5fa6"
+          "zipSHA256": "092d1e9a9f96ad9ddcb1f094ec78cf15864bb61606f5c880e59bfa131232f921"
         }
       }
     }
